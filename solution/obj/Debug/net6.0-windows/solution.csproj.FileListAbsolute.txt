@@ -1,0 +1,148 @@
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\bin\Debug\net6.0-windows\solution.exe
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\bin\Debug\net6.0-windows\solution.deps.json
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\bin\Debug\net6.0-windows\solution.runtimeconfig.json
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\bin\Debug\net6.0-windows\solution.dll
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\bin\Debug\net6.0-windows\solution.pdb
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.csproj.AssemblyReference.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\Dictionary\Dictionary_button.baml
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution_MarkupCompile.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution_MarkupCompile.lref
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\App.baml
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.g.resources
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.AssemblyInfoInputs.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.AssemblyInfo.cs
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.csproj.CoreCompileInputs.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.dll
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\refint\solution.dll
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.pdb
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\solution.genruntimeconfig.cache
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\ref\solution.dll
+C:\Users\SKH\Documents\Visual Studio 2022\source\solution\solution\obj\Debug\net6.0-windows\Dictionary\Dictionary_text.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\solution.exe
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\solution.deps.json
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\solution.runtimeconfig.json
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\solution.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\solution.pdb
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.csproj.AssemblyReference.cache
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Dictionary\Dictionary_button.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Dictionary\Dictionary_text.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution_MarkupCompile.cache
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution_MarkupCompile.lref
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\App.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.g.resources
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.AssemblyInfoInputs.cache
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.AssemblyInfo.cs
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.csproj.CoreCompileInputs.cache
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\refint\solution.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.pdb
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.genruntimeconfig.cache
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\ref\solution.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\solution.csproj.CopyComplete
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Page\Recipe_Stage1.g.cs
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Page\Setting_Stage1.g.cs
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Page\View_Stage1.g.cs
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Page\Recipe_Stage1.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Page\Setting_Stage1.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\Page\View_Stage1.baml
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\LiveChartsCore.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\담양\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\solution.exe
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\solution.deps.json
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\solution.runtimeconfig.json
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\solution.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\solution.pdb
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\HarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\LiveChartsCore.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\LiveChartsCore.SkiaSharpView.WPF.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.HarfBuzz.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\SkiaSharp.Views.WPF.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.csproj.AssemblyReference.cache
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Dictionary\Dictionary_button.baml
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Dictionary\Dictionary_text.baml
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Page\Recipe_Stage1.g.cs
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Page\Setting_Stage1.g.cs
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Page\View_Stage1.g.cs
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution_MarkupCompile.cache
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution_MarkupCompile.lref
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\App.baml
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Page\Recipe_Stage1.baml
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Page\Setting_Stage1.baml
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\Page\View_Stage1.baml
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.g.resources
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.AssemblyInfoInputs.cache
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.AssemblyInfo.cs
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.csproj.CoreCompileInputs.cache
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.csproj.CopyComplete
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\refint\solution.dll
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.pdb
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\solution.genruntimeconfig.cache
+C:\Users\SKH\Desktop\프로젝트\sample\solution\solution\obj\Debug\net6.0-windows\ref\solution.dll

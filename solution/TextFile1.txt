@@ -1,0 +1,16 @@
+﻿1.버튼으로 커맨드 연결
+
+    <Button Command="{Binding ChangeString1Command}" Background="Transparent" BorderBrush="Transparent">
+                                    <Button.Template>
+                                        <ControlTemplate TargetType="Button">
+                                            <ContentPresenter/>
+                                        </ControlTemplate>
+                                    </Button.Template>
+                                    <Grid>
+                                        <TextBlock Text="AUTO MODE" Style="{StaticResource TextBlock_01}"></TextBlock>
+                                    </Grid>
+                                </Button>
+
+
+
+2.버튼으로 커맨드 연결
